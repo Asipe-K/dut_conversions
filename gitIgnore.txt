@@ -1,2 +1,3 @@
 *.bat
+another_folder/
 
