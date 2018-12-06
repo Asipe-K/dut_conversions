@@ -1,5 +1,6 @@
 CONVERSIONS
 - RANDS TO CENTS
+	Multiply rands by 100
 - Km to m
 - Liter to ml
 
